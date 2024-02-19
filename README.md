@@ -1,4 +1,4 @@
-Stories based on this data:
+Stories in this series:
 <div> <a href="https://www.usatoday.com/story/news/investigations/2024/02/04/us-counties-ban-renewable-energy-plants/71841063007/"  target="_blank">Across America, clean energy plants are being banned faster than they're being built
 </a></div>
 <div> <a href="https://www.usatoday.com/story/news/investigations/2024/02/04/green-energy-nationwide-bans/71841275007/"  target="_blank">Local governments block green energy: Here’s how USA TODAY measured the limits nationwide
