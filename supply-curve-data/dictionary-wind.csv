@@ -1,0 +1,25 @@
+﻿reV Column,Units,Description
+area_sq_km,km2,Developable area after spatial exclusions applied
+capacity_mw,MW,Capacity of system based on n_turbines and turbine_capacity
+cnty_fips,N/A,County FIPS of 11.5km grid-cell
+country,N/A,Country of 11.5km grid-cell
+county,N/A,County name of 11.5km grid-cell
+dist_km,kilometers,Distance between the grid-cell centroid and nearest available electrical substation. Used in lcot calculations. 
+elevation,meters,Mean elevation of 11.5km grid-cell
+latitude,degrees,Centroid latitude of the 11.5km grid-cell
+lcot,$/MWh,"Levelized cost of transmission. Includes spur-transmission, point-of-interconnection, and reinforcement costs."
+longitude,degrees,Centroid longitude of the 11.5km grid-cell
+mean_cf,ratio,Mean capacity factor across 11.5km grid-cell
+mean_lcoe,$/MWh,Mean power plant levelized cost of energy across 11.5km grid-cell
+n_turbines,N/A,Number of turbines sited within the 11.5km grid-cell
+reinforcement_cost_per_mw,$/MW,Non-levelized reinforcement transmission capital costs per MW
+reinforcement_dist_km,kilometers,Distance between the connected substation and nearest regional load center. Used in lcot calculations. 
+state,N/A,State of 11.5km grid-cell
+timezone,N/A,Timezone of 11.5km grid-cell
+total_lcoe,$/MWh,All-in LCOE. Includes site-lcoe + lcot 
+trans_cap_cost_per_mw,$/MW,Non-levelized spur and point-of-interconnection transmission capital costs per MW
+reg_mult,ratio,"Regional capital cost multiplier to capture taxes, labor, land lease regional differences"
+turbine_capacity,kW,Nameplate capacity of a single turbine
+sc_point_gid,N/A,Unique ID that can be match to other reV supply curve tables
+hub_height,meters,Hub-height of the modeled turbine
+windspeed_m_per_s,meters/second,Annual average wind speed at the modeled turbine hub-height
