@@ -1,0 +1,117 @@
+fips,county,state,block_type,year
+4015,Mohave County,Arizona,M,2023.0
+6027,Inyo County,California,B,2015.0
+8015,Chaffee County,Colorado,M,2022.0
+8029,Delta County,Colorado,M,2023.0
+8085,Montrose County,Colorado,M,2023.0
+8103,Rio Blanco County,Colorado,M,2023.0
+8113,San Miguel County,Colorado,M,2023.0
+13119,Franklin County,Georgia,B,2022.0
+13161,Jeff Davis County,Georgia,B,2023.0
+13275,Thomas County,Georgia,M,2018.0
+16083,Twin Falls County,Idaho,M,2023.0
+18003,Allen County,Indiana,B,2022.0
+18095,Madison County,Indiana,M,2022.0
+18147,Spencer County,Indiana,M,2023.0
+19145,Page County,Iowa,M,2023.0
+19155,Pottawattamie County,Iowa,M,2023.0
+20009,Barton County,Kansas,M,2023.0
+20015,Butler County,Kansas,B,2023.0
+20031,Coffey County,Kansas,M,2023.0
+20059,Franklin County,Kansas,B,2022.0
+20079,Harvey County,Kansas,B,2023.0
+20107,Linn County,Kansas,M,2023.0
+20113,McPherson County,Kansas,B,2023.0
+20139,Osage County,Kansas,B,2022.0
+20155,Reno County,Kansas,B,2023.0
+20173,Sedgwick County,Kansas,M,2023.0
+22093,St. James Parish,Louisiana,M,2023.0
+24005,Baltimore County,Maryland,B,2017.0
+26037,Clinton County,Michigan,M,2023.0
+31111,Lincoln County,Nebraska,M,2023.0
+31145,Red Willow County,Nebraska,M,2023.0
+37053,Currituck County,North Carolina,B,2022.0
+39011,Auglaize County,Ohio,B,2022.0
+39015,Brown County,Ohio,B,2022.0
+39017,Butler County,Ohio,B,2023.0
+39029,Columbiana County,Ohio,B,2023.0
+39033,Crawford County,Ohio,M,2022.0
+39041,Delaware County,Ohio,M,2022.0
+39043,Erie County,Ohio,B,2023.0
+39063,Hancock County,Ohio,B,2023.0
+39091,Logan County,Ohio,B,2023.0
+39097,Madison County,Ohio,B,2023.0
+39103,Medina County,Ohio,B,2022.0
+39123,Ottawa County,Ohio,B,2023.0
+39137,Putnam County,Ohio,B,2023.0
+39147,Seneca County,Ohio,B,2021.0
+39169,Wayne County,Ohio,B,2023.0
+41047,Marion County,Oregon,B,2018.0
+45017,Calhoun County,South Carolina,M,2023.0
+47051,Franklin County,Tennessee,B,2022.0
+47059,Greene County,Tennessee,M,2023.0
+51037,Charlotte County,Virginia,B,2023.0
+51095,James City County,Virginia,M,2023.0
+51111,Lunenburg County,Virginia,M,2023.0
+51117,Mecklenburg County,Virginia,B,2023.0
+51139,Page County,Virginia,B,2023.0
+51165,Rockingham County,Virginia,B,2021.0
+54037,Jefferson County,West Virginia,B,2023.0
+19001,Adair County,Iowa,IMPED,2021.0
+19121,Madison County,Iowa,IMPED,2021.0
+19175,Union County,Iowa,IMPED,2021.0
+20045,Douglas County,Kansas,IMPED,2022.0
+20091,Johnson County,Kansas,IMPED,2022.0
+24011,Caroline County,Maryland,IMPED,2018.0
+24041,Talbot County,Maryland,IMPED,2022.0
+31025,Cass County,Nebraska,IMPED,2023.0
+51025,Brunswick County,Virginia,IMPED,2021.0
+51047,Culpeper County,Virginia,IMPED,2023.0
+51067,Franklin County,Virginia,IMPED,2023.0
+51081,Greensville County,Virginia,IMPED,2022.0
+51093,Isle of Wight County,Virginia,IMPED,2023.0
+51109,Louisa County,Virginia,IMPED,2022.0
+6001,Alameda County,California,DTP,2000.0
+6037,Los Angeles County,California,DTP,2015.0
+6055,Napa County,California,DTP,2019.0
+6071,San Bernardino County,California,DTP,2019.0
+10001,Kent County,Delaware,DTP,2023.0
+18019,Clark County,Indiana,DTP,2023.0
+18033,DeKalb County,Indiana,DTP,2023.0
+18035,Delaware County,Indiana,DTP,2023.0
+18057,Hamilton County,Indiana,DTP,2022.0
+18085,Kosciusko County,Indiana,DTP,2019.0
+18089,Lake County,Indiana,DTP,2022.0
+19073,Greene County,Iowa,DTP,2023.0
+19163,Scott County,Iowa,DTP,2022.0
+21167,Mercer County,Kentucky,DTP,2023.0
+22053,Jefferson Davis Parish,Louisiana,DTP,2021.0
+24003,Anne Arundel County,Maryland,DTP,2023.0
+24013,Carroll County,Maryland,DTP,2023.0
+24031,Montgomery County,Maryland,DTP,2021.0
+26115,Monroe County,Michigan,DTP,2023.0
+26147,St. Clair County,Michigan,DTP,2023.0
+31047,Dawson County,Nebraska,DTP,2023.0
+31067,Gage County,Nebraska,DTP,2023.0
+32023,Nye County,Nevada,DTP,2023.0
+39003,Allen County,Ohio,DTP,2022.0
+39025,Clermont County,Ohio,DTP,2023.0
+39057,Greene County,Ohio,DTP,2022.0
+39101,Marion County,Ohio,DTP,2022.0
+39175,Wyandot County,Ohio,DTP,2023.0
+41003,Benton County,Oregon,DTP,2019.0
+41005,Clackamas County,Oregon,DTP,2019.0
+41039,Lane County,Oregon,DTP,2019.0
+41043,Linn County,Oregon,DTP,2019.0
+41051,Multnomah County,Oregon,DTP,2019.0
+41053,Polk County,Oregon,DTP,2019.0
+41067,Washington County,Oregon,DTP,2019.0
+41071,Yamhill County,Oregon,DTP,2019.0
+47179,Washington County,Tennessee,DTP,2023.0
+51001,Accomack County,Virginia,DTP,2017.0
+51015,Augusta County,Virginia,DTP,2021.0
+51043,Clarke County,Virginia,DTP,2023.0
+51089,Henry County,Virginia,DTP,2020.0
+51113,Madison County,Virginia,DTP,2019.0
+51143,Pittsylvania County,Virginia,DTP,2023.0
+51175,Southampton County,Virginia,DTP,2022.0

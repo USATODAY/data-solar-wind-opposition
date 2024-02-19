@@ -1,0 +1,412 @@
+fips,county,state,block_type,year
+1003,Baldwin County,Alabama,B,2013.0
+4015,Mohave County,Arizona,M,2023.0
+6027,Inyo County,California,B,2015.0
+6037,Los Angeles County,California,B,2015.0
+6071,San Bernardino County,California,B,2019.0
+8015,Chaffee County,Colorado,M,2022.0
+8029,Delta County,Colorado,M,2023.0
+8085,Montrose County,Colorado,M,2023.0
+8103,Rio Blanco County,Colorado,M,2023.0
+8113,San Miguel County,Colorado,M,2023.0
+13119,Franklin County,Georgia,B,2022.0
+16031,Cassia County,Idaho,B,2023.0
+16047,Gooding County,Idaho,B,2023.0
+16053,Jerome County,Idaho,B,2023.0
+16063,Lincoln County,Idaho,B,2023.0
+16067,Minidoka County,Idaho,B,2023.0
+16083,Twin Falls County,Idaho,B,2023.0
+16087,Washington County,Idaho,B,2023.0
+18003,Allen County,Indiana,B,2019.0
+18011,Boone County,Indiana,M,2019.0
+18015,Carroll County,Indiana,B,2009.0
+18049,Fulton County,Indiana,B,2017.0
+18131,Pulaski County,Indiana,B,2021.0
+18157,Tippecanoe County,Indiana,B,2019.0
+18177,Wayne County,Indiana,B,2016.0
+18179,Wells County,Indiana,B,2013.0
+19001,Adair County,Iowa,B,2019.0
+19083,Hardin County,Iowa,B,2019.0
+19121,Madison County,Iowa,B,2021.0
+19145,Page County,Iowa,M,2023.0
+19155,Pottawattamie County,Iowa,M,2023.0
+19175,Union County,Iowa,M,2023.0
+20003,Anderson County,Kansas,B,2016.0
+20013,Brown County,Kansas,M,2023.0
+20059,Franklin County,Kansas,B,2023.0
+20079,Harvey County,Kansas,B,2023.0
+20107,Linn County,Kansas,B,2023.0
+20113,McPherson County,Kansas,M,2019.0
+20131,Nemaha County,Kansas,M,2019.0
+20139,Osage County,Kansas,B,2022.0
+20173,Sedgwick County,Kansas,B,2019.0
+21001,Adair County,Kentucky,B,2014.0
+21003,Allen County,Kentucky,B,2014.0
+21005,Anderson County,Kentucky,B,2014.0
+21007,Ballard County,Kentucky,B,2014.0
+21009,Barren County,Kentucky,B,2014.0
+21011,Bath County,Kentucky,B,2014.0
+21013,Bell County,Kentucky,B,2014.0
+21015,Boone County,Kentucky,B,2014.0
+21017,Bourbon County,Kentucky,B,2014.0
+21019,Boyd County,Kentucky,B,2014.0
+21021,Boyle County,Kentucky,B,2014.0
+21023,Bracken County,Kentucky,B,2014.0
+21025,Breathitt County,Kentucky,B,2014.0
+21027,Breckinridge County,Kentucky,B,2014.0
+21029,Bullitt County,Kentucky,B,2014.0
+21031,Butler County,Kentucky,B,2014.0
+21033,Caldwell County,Kentucky,B,2014.0
+21035,Calloway County,Kentucky,B,2014.0
+21037,Campbell County,Kentucky,B,2014.0
+21039,Carlisle County,Kentucky,B,2014.0
+21041,Carroll County,Kentucky,B,2014.0
+21043,Carter County,Kentucky,B,2014.0
+21045,Casey County,Kentucky,B,2014.0
+21047,Christian County,Kentucky,B,2014.0
+21049,Clark County,Kentucky,B,2014.0
+21051,Clay County,Kentucky,B,2014.0
+21053,Clinton County,Kentucky,B,2014.0
+21055,Crittenden County,Kentucky,B,2014.0
+21057,Cumberland County,Kentucky,B,2014.0
+21059,Daviess County,Kentucky,B,2014.0
+21061,Edmonson County,Kentucky,B,2014.0
+21063,Elliott County,Kentucky,B,2014.0
+21065,Estill County,Kentucky,B,2014.0
+21067,Fayette County,Kentucky,B,2014.0
+21069,Fleming County,Kentucky,B,2014.0
+21071,Floyd County,Kentucky,B,2014.0
+21073,Franklin County,Kentucky,B,2014.0
+21075,Fulton County,Kentucky,B,2014.0
+21077,Gallatin County,Kentucky,B,2014.0
+21079,Garrard County,Kentucky,B,2014.0
+21081,Grant County,Kentucky,B,2014.0
+21083,Graves County,Kentucky,B,2014.0
+21085,Grayson County,Kentucky,B,2014.0
+21087,Green County,Kentucky,B,2014.0
+21089,Greenup County,Kentucky,B,2014.0
+21091,Hancock County,Kentucky,B,2014.0
+21093,Hardin County,Kentucky,B,2014.0
+21095,Harlan County,Kentucky,B,2014.0
+21097,Harrison County,Kentucky,B,2014.0
+21099,Hart County,Kentucky,B,2014.0
+21101,Henderson County,Kentucky,B,2014.0
+21103,Henry County,Kentucky,B,2014.0
+21105,Hickman County,Kentucky,B,2014.0
+21107,Hopkins County,Kentucky,B,2014.0
+21109,Jackson County,Kentucky,B,2014.0
+21111,Jefferson County,Kentucky,B,2014.0
+21113,Jessamine County,Kentucky,B,2014.0
+21115,Johnson County,Kentucky,B,2014.0
+21117,Kenton County,Kentucky,B,2014.0
+21119,Knott County,Kentucky,B,2014.0
+21121,Knox County,Kentucky,B,2014.0
+21123,Larue County,Kentucky,B,2014.0
+21125,Laurel County,Kentucky,B,2014.0
+21127,Lawrence County,Kentucky,B,2014.0
+21129,Lee County,Kentucky,B,2014.0
+21131,Leslie County,Kentucky,B,2014.0
+21133,Letcher County,Kentucky,B,2014.0
+21135,Lewis County,Kentucky,B,2014.0
+21137,Lincoln County,Kentucky,B,2014.0
+21139,Livingston County,Kentucky,B,2014.0
+21141,Logan County,Kentucky,B,2014.0
+21143,Lyon County,Kentucky,B,2014.0
+21145,McCracken County,Kentucky,B,2014.0
+21147,McCreary County,Kentucky,B,2014.0
+21149,McLean County,Kentucky,B,2014.0
+21151,Madison County,Kentucky,B,2014.0
+21153,Magoffin County,Kentucky,B,2014.0
+21155,Marion County,Kentucky,B,2014.0
+21157,Marshall County,Kentucky,B,2014.0
+21159,Martin County,Kentucky,B,2014.0
+21161,Mason County,Kentucky,B,2014.0
+21163,Meade County,Kentucky,B,2014.0
+21165,Menifee County,Kentucky,B,2014.0
+21167,Mercer County,Kentucky,B,2014.0
+21169,Metcalfe County,Kentucky,B,2014.0
+21171,Monroe County,Kentucky,B,2014.0
+21173,Montgomery County,Kentucky,B,2014.0
+21175,Morgan County,Kentucky,B,2014.0
+21177,Muhlenberg County,Kentucky,B,2014.0
+21179,Nelson County,Kentucky,B,2014.0
+21181,Nicholas County,Kentucky,B,2014.0
+21183,Ohio County,Kentucky,B,2014.0
+21185,Oldham County,Kentucky,B,2014.0
+21187,Owen County,Kentucky,B,2014.0
+21189,Owsley County,Kentucky,B,2014.0
+21191,Pendleton County,Kentucky,B,2014.0
+21193,Perry County,Kentucky,B,2014.0
+21195,Pike County,Kentucky,B,2014.0
+21197,Powell County,Kentucky,B,2014.0
+21199,Pulaski County,Kentucky,B,2014.0
+21201,Robertson County,Kentucky,B,2014.0
+21203,Rockcastle County,Kentucky,B,2014.0
+21205,Rowan County,Kentucky,B,2014.0
+21207,Russell County,Kentucky,B,2014.0
+21209,Scott County,Kentucky,B,2014.0
+21211,Shelby County,Kentucky,B,2014.0
+21213,Simpson County,Kentucky,B,2014.0
+21215,Spencer County,Kentucky,B,2014.0
+21217,Taylor County,Kentucky,B,2014.0
+21219,Todd County,Kentucky,B,2014.0
+21221,Trigg County,Kentucky,B,2014.0
+21223,Trimble County,Kentucky,B,2014.0
+21225,Union County,Kentucky,B,2014.0
+21227,Warren County,Kentucky,B,2014.0
+21229,Washington County,Kentucky,B,2014.0
+21231,Wayne County,Kentucky,B,2014.0
+21233,Webster County,Kentucky,B,2014.0
+21235,Whitley County,Kentucky,B,2014.0
+21237,Wolfe County,Kentucky,B,2014.0
+21239,Woodford County,Kentucky,B,2014.0
+24003,Anne Arundel County,Maryland,B,2022.0
+24009,Calvert County,Maryland,B,2010.0
+24019,Dorchester County,Maryland,B,2022.0
+24021,Frederick County,Maryland,B,2009.0
+24029,Kent County,Maryland,B,2016.0
+24039,Somerset County,Maryland,B,2019.0
+24047,Worcester County,Maryland,B,2015.0
+26037,Clinton County,Michigan,M,2023.0
+29019,Boone County,Missouri,B,2021.0
+29021,Buchanan County,Missouri,B,2022.0
+29049,Clinton County,Missouri,B,2019.0
+31111,Lincoln County,Nebraska,M,2023.0
+31145,Red Willow County,Nebraska,M,2023.0
+31167,Stanton County,Nebraska,B,2018.0
+37005,Alleghany County,North Carolina,B,2009.0
+37009,Ashe County,North Carolina,B,2023.0
+37011,Avery County,North Carolina,B,2009.0
+37021,Buncombe County,North Carolina,B,2009.0
+37023,Burke County,North Carolina,B,2009.0
+37027,Caldwell County,North Carolina,B,2009.0
+37039,Cherokee County,North Carolina,B,2009.0
+37043,Clay County,North Carolina,B,2009.0
+37053,Currituck County,North Carolina,B,2008.0
+37075,Graham County,North Carolina,B,2009.0
+37087,Haywood County,North Carolina,B,2009.0
+37089,Henderson County,North Carolina,B,2009.0
+37099,Jackson County,North Carolina,B,2009.0
+37111,McDowell County,North Carolina,B,2009.0
+37113,Macon County,North Carolina,B,2009.0
+37115,Madison County,North Carolina,B,2009.0
+37121,Mitchell County,North Carolina,B,2009.0
+37149,Polk County,North Carolina,B,2009.0
+37161,Rutherford County,North Carolina,B,2009.0
+37171,Surry County,North Carolina,B,2009.0
+37173,Swain County,North Carolina,B,2009.0
+37175,Transylvania County,North Carolina,B,2009.0
+37189,Watauga County,North Carolina,B,2009.0
+37193,Wilkes County,North Carolina,B,2009.0
+37199,Yancey County,North Carolina,B,2009.0
+39003,Allen County,Ohio,B,2022.0
+39011,Auglaize County,Ohio,B,2022.0
+39015,Brown County,Ohio,B,2022.0
+39017,Butler County,Ohio,B,2023.0
+39029,Columbiana County,Ohio,B,2023.0
+39033,Crawford County,Ohio,M,2022.0
+39043,Erie County,Ohio,B,2023.0
+39063,Hancock County,Ohio,B,2023.0
+39083,Knox County,Ohio,B,2023.0
+39091,Logan County,Ohio,B,2022.0
+39097,Madison County,Ohio,B,2023.0
+39103,Medina County,Ohio,B,2022.0
+39123,Ottawa County,Ohio,B,2023.0
+39137,Putnam County,Ohio,B,2023.0
+39147,Seneca County,Ohio,B,2021.0
+39169,Wayne County,Ohio,B,2023.0
+47001,Anderson County,Tennessee,B,2018.0
+47003,Bedford County,Tennessee,B,2018.0
+47005,Benton County,Tennessee,B,2018.0
+47007,Bledsoe County,Tennessee,B,2018.0
+47009,Blount County,Tennessee,B,2018.0
+47011,Bradley County,Tennessee,B,2018.0
+47013,Campbell County,Tennessee,B,2018.0
+47015,Cannon County,Tennessee,B,2018.0
+47017,Carroll County,Tennessee,B,2018.0
+47019,Carter County,Tennessee,B,2018.0
+47021,Cheatham County,Tennessee,B,2018.0
+47023,Chester County,Tennessee,B,2018.0
+47025,Claiborne County,Tennessee,B,2018.0
+47027,Clay County,Tennessee,B,2018.0
+47029,Cocke County,Tennessee,B,2018.0
+47031,Coffee County,Tennessee,B,2018.0
+47033,Crockett County,Tennessee,B,2018.0
+47035,Cumberland County,Tennessee,B,2018.0
+47037,Davidson County,Tennessee,B,2018.0
+47039,Decatur County,Tennessee,B,2018.0
+47041,DeKalb County,Tennessee,B,2018.0
+47043,Dickson County,Tennessee,B,2018.0
+47045,Dyer County,Tennessee,B,2018.0
+47047,Fayette County,Tennessee,B,2018.0
+47049,Fentress County,Tennessee,B,2018.0
+47051,Franklin County,Tennessee,B,2018.0
+47055,Giles County,Tennessee,B,2018.0
+47057,Grainger County,Tennessee,B,2018.0
+47059,Greene County,Tennessee,B,2018.0
+47061,Grundy County,Tennessee,B,2018.0
+47063,Hamblen County,Tennessee,B,2018.0
+47065,Hamilton County,Tennessee,B,2018.0
+47067,Hancock County,Tennessee,B,2018.0
+47069,Hardeman County,Tennessee,B,2018.0
+47071,Hardin County,Tennessee,B,2018.0
+47073,Hawkins County,Tennessee,B,2018.0
+47075,Haywood County,Tennessee,B,2018.0
+47077,Henderson County,Tennessee,B,2018.0
+47079,Henry County,Tennessee,B,2018.0
+47081,Hickman County,Tennessee,B,2018.0
+47083,Houston County,Tennessee,B,2018.0
+47085,Humphreys County,Tennessee,B,2018.0
+47087,Jackson County,Tennessee,B,2018.0
+47091,Johnson County,Tennessee,B,2018.0
+47093,Knox County,Tennessee,B,2018.0
+47095,Lake County,Tennessee,B,2018.0
+47097,Lauderdale County,Tennessee,B,2018.0
+47099,Lawrence County,Tennessee,B,2018.0
+47101,Lewis County,Tennessee,B,2018.0
+47103,Lincoln County,Tennessee,B,2018.0
+47105,Loudon County,Tennessee,B,2018.0
+47107,McMinn County,Tennessee,B,2018.0
+47109,McNairy County,Tennessee,B,2018.0
+47111,Macon County,Tennessee,B,2018.0
+47113,Madison County,Tennessee,B,2018.0
+47115,Marion County,Tennessee,B,2018.0
+47117,Marshall County,Tennessee,B,2018.0
+47119,Maury County,Tennessee,B,2018.0
+47121,Meigs County,Tennessee,B,2018.0
+47123,Monroe County,Tennessee,B,2018.0
+47125,Montgomery County,Tennessee,B,2018.0
+47127,Moore County,Tennessee,B,2018.0
+47129,Morgan County,Tennessee,B,2018.0
+47131,Obion County,Tennessee,B,2018.0
+47133,Overton County,Tennessee,B,2018.0
+47135,Perry County,Tennessee,B,2018.0
+47137,Pickett County,Tennessee,B,2018.0
+47139,Polk County,Tennessee,B,2018.0
+47141,Putnam County,Tennessee,B,2018.0
+47143,Rhea County,Tennessee,B,2018.0
+47145,Roane County,Tennessee,B,2018.0
+47147,Robertson County,Tennessee,B,2018.0
+47149,Rutherford County,Tennessee,B,2018.0
+47151,Scott County,Tennessee,B,2018.0
+47153,Sequatchie County,Tennessee,B,2018.0
+47155,Sevier County,Tennessee,B,2018.0
+47159,Smith County,Tennessee,B,2018.0
+47161,Stewart County,Tennessee,B,2018.0
+47163,Sullivan County,Tennessee,B,2018.0
+47165,Sumner County,Tennessee,B,2018.0
+47167,Tipton County,Tennessee,B,2018.0
+47169,Trousdale County,Tennessee,B,2018.0
+47171,Unicoi County,Tennessee,B,2018.0
+47173,Union County,Tennessee,B,2018.0
+47175,Van Buren County,Tennessee,B,2018.0
+47177,Warren County,Tennessee,B,2018.0
+47181,Wayne County,Tennessee,B,2018.0
+47183,Weakley County,Tennessee,B,2018.0
+47185,White County,Tennessee,B,2018.0
+47187,Williamson County,Tennessee,B,2018.0
+47189,Wilson County,Tennessee,B,2018.0
+51141,Patrick County,Virginia,B,2007.0
+51187,Warren County,Virginia,B,2009.0
+1019,Cherokee County,Alabama,IMPED,2014.0
+1029,Cleburne County,Alabama,IMPED,2015.0
+1049,DeKalb County,Alabama,IMPED,2014.0
+1055,Etowah County,Alabama,IMPED,2014.0
+6013,Contra Costa County,California,IMPED,2022.0
+6017,El Dorado County,California,IMPED,2015.0
+8121,Washington County,Colorado,IMPED,2021.0
+9001,Fairfield County,Connecticut,IMPED,2014.0
+9003,Hartford County,Connecticut,IMPED,2014.0
+9005,Litchfield County,Connecticut,IMPED,2014.0
+9007,Middlesex County,Connecticut,IMPED,2014.0
+9009,New Haven County,Connecticut,IMPED,2014.0
+9011,New London County,Connecticut,IMPED,2014.0
+9013,Tolland County,Connecticut,IMPED,2014.0
+9015,Windham County,Connecticut,IMPED,2014.0
+10001,Kent County,Delaware,IMPED,2023.0
+18057,Hamilton County,Indiana,IMPED,2022.0
+18067,Howard County,Indiana,IMPED,2015.0
+18073,Jasper County,Indiana,IMPED,2019.0
+18085,Kosciusko County,Indiana,IMPED,2022.0
+18103,Miami County,Indiana,IMPED,2018.0
+18107,Montgomery County,Indiana,IMPED,2019.0
+18113,Noble County,Indiana,IMPED,2013.0
+18139,Rush County,Indiana,IMPED,2019.0
+18159,Tipton County,Indiana,IMPED,2016.0
+18183,Whitley County,Indiana,IMPED,2022.0
+19023,Butler County,Iowa,IMPED,2022.0
+19049,Dallas County,Iowa,IMPED,2022.0
+19135,Monroe County,Iowa,IMPED,2020.0
+19147,Palo Alto County,Iowa,IMPED,2022.0
+19193,Woodbury County,Iowa,IMPED,2023.0
+20021,Cherokee County,Kansas,IMPED,2022.0
+20093,Kearny County,Kansas,IMPED,2009.0
+20103,Leavenworth County,Kansas,IMPED,2022.0
+20151,Pratt County,Kansas,IMPED,2017.0
+22053,Jefferson Davis Parish,Louisiana,IMPED,2020.0
+24001,Allegany County,Maryland,IMPED,2019.0
+26047,Emmet County,Michigan,IMPED,2021.0
+26105,Mason County,Michigan,IMPED,2018.0
+26155,Shiawassee County,Michigan,IMPED,2018.0
+31017,Brown County,Nebraska,IMPED,2023.0
+31019,Buffalo County,Nebraska,IMPED,2023.0
+31043,Dakota County,Nebraska,IMPED,2023.0
+31047,Dawson County,Nebraska,IMPED,2023.0
+31067,Gage County,Nebraska,IMPED,2021.0
+31081,Hamilton County,Nebraska,IMPED,2020.0
+31095,Jefferson County,Nebraska,IMPED,2023.0
+31109,Lancaster County,Nebraska,IMPED,2022.0
+31171,Thomas County,Nebraska,IMPED,2019.0
+31183,Wheeler County,Nebraska,IMPED,2021.0
+37031,Carteret County,North Carolina,IMPED,2013.0
+37049,Craven County,North Carolina,IMPED,2021.0
+37097,Iredell County,North Carolina,IMPED,2017.0
+38023,Divide County,North Dakota,IMPED,2017.0
+50001,Addison County,Vermont,IMPED,2017.0
+50003,Bennington County,Vermont,IMPED,2017.0
+50005,Caledonia County,Vermont,IMPED,2017.0
+50007,Chittenden County,Vermont,IMPED,2017.0
+50009,Essex County,Vermont,IMPED,2017.0
+50011,Franklin County,Vermont,IMPED,2017.0
+50013,Grand Isle County,Vermont,IMPED,2017.0
+50015,Lamoille County,Vermont,IMPED,2017.0
+50017,Orange County,Vermont,IMPED,2017.0
+50019,Orleans County,Vermont,IMPED,2017.0
+50021,Rutland County,Vermont,IMPED,2017.0
+50023,Washington County,Vermont,IMPED,2017.0
+50025,Windham County,Vermont,IMPED,2017.0
+50027,Windsor County,Vermont,IMPED,2017.0
+51191,Washington County,Virginia,IMPED,2012.0
+55015,Calumet County,Wisconsin,IMPED,2015.0
+55049,Iowa County,Wisconsin,IMPED,2014.0
+55081,Monroe County,Wisconsin,IMPED,2016.0
+55095,Polk County,Wisconsin,IMPED,2023.0
+55121,Trempealeau County,Wisconsin,IMPED,2007.0
+56011,Crook County,Wyoming,IMPED,2012.0
+6023,Humboldt County,California,DTP,2019.0
+6033,Lake County,California,DTP,2022.0
+6089,Shasta County,California,DTP,2022.0
+18065,Henry County,Indiana,DTP,2019.0
+19057,Des Moines County,Iowa,DTP,2023.0
+20099,Labette County,Kansas,DTP,2022.0
+26013,Baraga County,Michigan,DTP,2015.0
+26017,Bay County,Michigan,DTP,2019.0
+26023,Branch County,Michigan,DTP,2020.0
+26061,Houghton County,Michigan,DTP,2020.0
+26065,Ingham County,Michigan,DTP,2022.0
+26081,Kent County,Michigan,DTP,2019.0
+26087,Lapeer County,Michigan,DTP,2019.0
+26091,Lenawee County,Michigan,DTP,2018.0
+26117,Montcalm County,Michigan,DTP,2022.0
+26121,Muskegon County,Michigan,DTP,2018.0
+26127,Oceana County,Michigan,DTP,2019.0
+26157,Tuscola County,Michigan,DTP,2018.0
+38007,Billings County,North Dakota,DTP,2016.0
+38013,Burke County,North Dakota,DTP,2019.0
+38015,Burleigh County,North Dakota,DTP,2019.0
+39025,Clermont County,Ohio,DTP,2023.0
+39057,Greene County,Ohio,DTP,2022.0
+39101,Marion County,Ohio,DTP,2022.0
+39175,Wyandot County,Ohio,DTP,2023.0
+46083,Lincoln County,South Dakota,DTP,2017.0
+51023,Botetourt County,Virginia,DTP,2022.0
