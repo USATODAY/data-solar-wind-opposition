@@ -17,7 +17,7 @@ Stories in this series:
 
 Datasets "solar_blocks.csv" and "wind_blocks.csv" are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 - Attribution: You'll need to credit any work that uses these datasets to USA TODAY, provide a link to <a href='https://www.usatoday.com/story/news/investigations/2024/02/04/us-counties-ban-renewable-energy-plants/71841063007/'>this story</a>, and indicate if changes were made. You may do so reasonably, but not in any way that suggests USA TODAY endorses you or your work.
-- No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- No restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Please attribute this dataset as follows: "Data collected by USA TODAY in a yearlong investigation"
 
